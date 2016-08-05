@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list">
+        <item>            WHITE
+</item>
+        <item>             GREY
+</item>
+        <item>            YELLOW
+</item>
+       
+    </string-array>
+    <string-array name="values">
+        <item>           #ffffff
+</item>
+        <item>            #f2e6ff
+</item>
+        <item>            #cca300
+</item>
+       
+    </string-array>
+
+</resources>
